@@ -1,0 +1,35 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "fullpage-react": "^3.0.4",
+    "jquery": "^3.2.1",
+    "object-assign": "^4.1.1",
+    "react": "^15.6.1",
+    "react-autocomplete": "^1.5.10",
+    "react-bootstrap": "^0.31.1",
+    "react-dom": "^15.6.1",
+    "react-file-input": "^0.2.5",
+    "react-loading": "^0.1.4",
+    "react-magic": "^0.2.3",
+    "react-redux": "^5.0.5",
+    "react-router-dom": "^4.1.2",
+    "react-scroll": "^1.5.4",
+    "react-scrollable-anchor": "^0.4.2",
+    "react-select": "^1.0.0-rc.5",
+    "react-twitter-widgets": "^1.4.0",
+    "redux": "^3.7.2",
+    "redux-promise": "^0.5.3"
+  },
+  "devDependencies": {
+    "react-scripts": "^1.0.10"
+  },
+  "main":"bundle.js",
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  }
+}

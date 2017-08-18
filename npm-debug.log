@@ -2,19 +2,19 @@
 1 verbose cli [ '/usr/local/bin/node', '/usr/local/bin/npm', 'run', 'build' ]
 2 info using npm@3.10.10
 3 info using node@v6.10.3
-4 verbose stack Error: ENOENT: no such file or directory, open '/Users/chrisboeckel/Desktop/DigitalCrafts/4-17immersive/writeIT-FinalProject/writeIt-react-express/package.json'
+4 verbose stack Error: ENOENT: no such file or directory, open '/Users/Porscha/Desktop/DigitalCrafts/4-17immersive/Unit 8/final project/writeIt/package.json'
 4 verbose stack     at Error (native)
-5 verbose cwd /Users/chrisboeckel/Desktop/DigitalCrafts/4-17immersive/writeIT-FinalProject/writeIt-react-express
+5 verbose cwd /Users/Porscha/Desktop/DigitalCrafts/4-17immersive/Unit 8/final project/writeIt/package.json
 6 error Darwin 16.6.0
 7 error argv "/usr/local/bin/node" "/usr/local/bin/npm" "run" "build"
 8 error node v6.10.3
 9 error npm  v3.10.10
-10 error path /Users/chrisboeckel/Desktop/DigitalCrafts/4-17immersive/writeIT-FinalProject/writeIt-react-express/package.json
+10 error path /Users/Porscha/Desktop/DigitalCrafts/4-17immersive/Unit 8/final project/writeIt/package.json
 11 error code ENOENT
 12 error errno -2
 13 error syscall open
-14 error enoent ENOENT: no such file or directory, open '/Users/chrisboeckel/Desktop/DigitalCrafts/4-17immersive/writeIT-FinalProject/writeIt-react-express/package.json'
-15 error enoent ENOENT: no such file or directory, open '/Users/chrisboeckel/Desktop/DigitalCrafts/4-17immersive/writeIT-FinalProject/writeIt-react-express/package.json'
+14 error enoent ENOENT: no such file or directory, open '/Users/Porscha/Desktop/DigitalCrafts/4-17immersive/Unit 8/final project/writeIt/package.json'
+15 error enoent ENOENT: no such file or directory, open '/Users/Porscha/Desktop/DigitalCrafts/4-17immersive/Unit 8/final project/writeIt/package.json'
 15 error enoent This is most likely not a problem with npm itself
 15 error enoent and is related to npm not being able to find a file.
 16 verbose exit [ -2, true ]

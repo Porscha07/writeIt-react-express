@@ -311,8 +311,8 @@
 }
 /* line 337, ../../compass/sass/tOtherUser.scss */
 .profile .write-message-box button {
-  top: 2em;
-  left: 20em;
+  top: 1em;
+  left: 0em;
   opacity: 0.8;
   border: 1px solid;
 }

@@ -3,13 +3,24 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "aria-query": "^0.7.0",
+    "babel-loader": "^7.1.1",
+    "eslint": "^4.4.1",
+    "eslint-plugin-flowtype": "^2.35.0",
+    "eslint-plugin-import": "^2.7.0",
+    "eslint-plugin-jsx-a11y": "^6.0.2",
+    "espree": "^3.5.0",
+    "filesize": "^3.5.10",
     "fullpage-react": "^3.0.4",
+    "inquirer": "^3.2.1",
     "jquery": "^3.2.1",
+    "mute-stream": "0.0.7",
     "object-assign": "^4.1.1",
     "react": "^15.6.1",
     "react-autocomplete": "^1.5.10",
     "react-bootstrap": "^0.31.1",
     "react-dom": "^15.6.1",
+    "react-error-overlay": "^1.0.10",
     "react-file-input": "^0.2.5",
     "react-loading": "^0.1.4",
     "react-magic": "^0.2.3",
@@ -20,7 +31,9 @@
     "react-select": "^1.0.0-rc.5",
     "react-twitter-widgets": "^1.4.0",
     "redux": "^3.7.2",
-    "redux-promise": "^0.5.3"
+    "redux-promise": "^0.5.3",
+    "webpack": "^3.5.3",
+    "webpack-dev-server": "^2.7.1"
   },
   "devDependencies": {
     "react-scripts": "^1.0.10"
